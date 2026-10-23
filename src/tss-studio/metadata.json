@@ -1,0 +1,10 @@
+{
+  "name": "Remix: ผู้ช่วยร้านค้าออนไลน์",
+  "description": "Professional AI assistant for online sellers. Generates sales captions and drafts customer service replies instantly.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

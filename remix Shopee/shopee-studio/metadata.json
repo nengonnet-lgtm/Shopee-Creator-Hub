@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Script Reader & TTS Studio",
+  "description": "A polished studio for social commerce sellers to compose, refine, and convert product scripts into high-quality voiceovers using Gemini Neural Text-to-Speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
